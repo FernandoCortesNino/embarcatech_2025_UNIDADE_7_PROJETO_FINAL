@@ -89,7 +89,7 @@ Documentação e Entrega
 5.1 - Código
 Disponibilizado no GitHub com documentação clara.
 
-5.2 - LINK DO VÍDEO: 
+5.2 - LINK DO VÍDEO: https://drive.google.com/file/d/1mdzqxFE9BcbP7qrjyhsQomyxJ4O0iy3u/view?usp=sharing
 
 
 Conclusão 
